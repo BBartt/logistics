@@ -294,9 +294,8 @@ function Sidebar() {
             />
           </motion.div>
         </div>
-        <div className="content">
-          <Outlet />
-        </div>
+
+        <Outlet />
       </main>
     </>
   );
