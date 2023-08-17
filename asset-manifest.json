@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/logistics/static/css/main.1de4ad1b.css",
-    "main.js": "/logistics/static/js/main.5cee5007.js",
+    "main.css": "/logistics/static/css/main.c2cf6bbe.css",
+    "main.js": "/logistics/static/js/main.0307726c.js",
     "index.html": "/logistics/index.html",
-    "main.1de4ad1b.css.map": "/logistics/static/css/main.1de4ad1b.css.map",
-    "main.5cee5007.js.map": "/logistics/static/js/main.5cee5007.js.map"
+    "main.c2cf6bbe.css.map": "/logistics/static/css/main.c2cf6bbe.css.map",
+    "main.0307726c.js.map": "/logistics/static/js/main.0307726c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1de4ad1b.css",
-    "static/js/main.5cee5007.js"
+    "static/css/main.c2cf6bbe.css",
+    "static/js/main.0307726c.js"
   ]
 }
